@@ -111,8 +111,8 @@ body {
 .cardbox {
     border: 0px solid red;
     border-radius: 10px;
-    width: 350px;
-    height: 350px;
+    width: 340px;
+    height: 340px;
     margin: 15px;
     box-shadow: 4px 4px 4px gray, -4px -4px 4px grey;
     background-color: white;
